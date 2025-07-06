@@ -33,7 +33,10 @@ tic-tac-toe/
 
 ## 📸 Screenshot
 
-![Game Screenshot](.png)  
+![Game Screenshot](ss1.png)(ss2.png)(ss3.png)(ss4.png)
+
+
+
 <!-- Upload a screenshot image in your repo and rename accordingly -->
 
 ---
