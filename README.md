@@ -16,7 +16,7 @@ A fun and interactive web-based **Tic-Tac-Toe** game built with **HTML**, **CSS*
 
 ## 🚀 Live Demo
 
-👉 [Play the Game Here](https://ankitkr20.github.io/tic-tac-toe)  
+👉 [Play the Game Here](https://ankitkr20.github.io/TicTacToe/)  
 <!-- Replace with your GitHub Pages link after hosting -->
 
 ---
