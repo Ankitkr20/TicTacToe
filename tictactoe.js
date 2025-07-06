@@ -50,7 +50,7 @@ boxes.forEach((box) => {
       box.innerText = "O";
       turnO = false;
     } else {
-      box.innerText = "X";
+      box.innerHTML = '<spna style = "color: blue";>X<span>';
       turnO = true;
     }
     box.disabled = true;
